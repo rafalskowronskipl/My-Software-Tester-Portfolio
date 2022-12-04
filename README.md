@@ -8,7 +8,7 @@
 - Android Studio
 - Charles
 - HandBrake
-- [HTML + CSS] (https://codepen.io/rgskowronski/pen/gKWxvE)
+- [HTML + CSS](https://codepen.io/rgskowronski/pen/gKWxvE)
 - SCRUM
 - ISTQB
 
