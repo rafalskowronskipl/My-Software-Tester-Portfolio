@@ -1,5 +1,12 @@
+## Skills & Tools
+- [Jira](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/boards/10)
+- [Qase](https://app.qase.io/project/MYP?view=1&suite=1https://app.qase.io/project/MYP?view=1&suite=1)
 
 
+
+
+- SCRUM
+- ISTQB
 
 
 
