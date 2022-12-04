@@ -1,6 +1,13 @@
+
+
+
+
+
+
 ## Certificates & Courses
 - [Akademia Testowania](https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) - 190/10/2022
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rafalskowronskipl/javascript-algorithms-and-data-structures)
+- Wordpress
 - [Responsive Web Design](https://www.freecodecamp.org/certification/rafalskowronskipl/responsive-web-design)
 
 
