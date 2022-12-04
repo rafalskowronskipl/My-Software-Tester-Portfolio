@@ -11,6 +11,7 @@
 - Bug Magnet
 - SCRUM
 - ISTQB
+- [Shopify](https://pilestone.pl/)
 - [HTML + CSS](https://codepen.io/rgskowronski/pen/gKWxvE)
 
 ## Certificates & Courses
