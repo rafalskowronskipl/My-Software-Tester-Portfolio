@@ -1,7 +1,14 @@
 ## Skills & Tools
 - [Jira](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/boards/10)
 - [Qase](https://app.qase.io/project/MYP?view=1&suite=1https://app.qase.io/project/MYP?view=1&suite=1)
-
+- TestLink
+- Mantis
+- Postman
+- DevTools
+- Android Studio
+- Charles
+- HandBrake
+- [HTML + CSS] (https://codepen.io/rgskowronski/pen/gKWxvE)
 
 
 
