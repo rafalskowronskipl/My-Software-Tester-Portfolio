@@ -9,14 +9,8 @@
 - Charles
 - HandBrake
 - [HTML + CSS] (https://codepen.io/rgskowronski/pen/gKWxvE)
-
-
-
 - SCRUM
 - ISTQB
-
-
-
 
 ## Certificates & Courses
 - [Akademia Testowania](https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) 190/10/2022
