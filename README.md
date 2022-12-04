@@ -1,3 +1,9 @@
+## Certificates & Courses
+- [Akademia Testowania](https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) - 190/10/2022
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/rafalskowronskipl/javascript-algorithms-and-data-structures)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/rafalskowronskipl/responsive-web-design)
+
+
 ## My Test Documentation 
 - [Bug Reports](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/boards/10)
 - [Test Reports](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/issues/)
