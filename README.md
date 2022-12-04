@@ -8,9 +8,10 @@
 - Android Studio
 - Charles
 - HandBrake
-- [HTML + CSS](https://codepen.io/rgskowronski/pen/gKWxvE)
+- Bug Magnet
 - SCRUM
 - ISTQB
+- [HTML + CSS](https://codepen.io/rgskowronski/pen/gKWxvE)
 
 ## Certificates & Courses
 - [Akademia Testowania](https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) 190/10/2022
