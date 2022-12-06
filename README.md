@@ -1,5 +1,5 @@
 ## Skills & Tools
-- [Jira](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/boards/10)
+- [Jira](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
 - [Qase](https://app.qase.io/project/MYP?view=1&suite=1https://app.qase.io/project/MYP?view=1&suite=1)
 - TestLink
 - Mantis
@@ -22,7 +22,7 @@
 
 
 ## My Test Documentation 
-- [Bug Reports](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/boards/10)
-- [Test Reports](https://rafalskowronski.atlassian.net/jira/software/projects/MYP/issues/)
+- [Bug Reports](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
+- [Test Reports](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
 - [Test cases](https://github.com/rafalskowronskipl/My-Software-Tester-Portfolio/issues/1)
 - [Test runs](https://app.qase.io/public/report/30faf04cb8bde41c7d2d706d9b91d083cc0e178c)
