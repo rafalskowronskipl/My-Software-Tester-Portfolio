@@ -1,4 +1,4 @@
-## Skills & Tools
+## Tools
 - Jira
 - Qase
 - TestLink
@@ -9,10 +9,15 @@
 - Charles
 - HandBrake
 - Bug Magnet
+- Google Lighthouse
+
+## Skills
+- Software Testing
 - SCRUM
-- ISTQB
-- [Shopify](https://pilestone.pl/)
 - [HTML + CSS](https://codepen.io/rgskowronski/pen/gKWxvE)
+- [Shopify](https://pilestone.pl/)
+- Wordpress platform
+
 
 ## Certificates & Courses
 - [Akademia Testowania](https://testuj.pl/karta-szkolenia/kurs-it-online-akademia-testowania-dzienna) 190/10/2022
