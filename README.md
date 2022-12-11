@@ -1,6 +1,6 @@
 ## Skills & Tools
-- [Jira](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
-- [Qase](https://app.qase.io/project/MYP?view=1&suite=1https://app.qase.io/project/MYP?view=1&suite=1)
+- Jira
+- Qase
 - TestLink
 - Mantis
 - Postman
@@ -23,6 +23,6 @@
 
 ## My Test Documentation 
 - [Bug Reports](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
-- [Test Reports](https://jira.external-share.com/issue/48573/rafal_skowronski_board_share)
+- Test Reports
 - [Test cases](https://github.com/rafalskowronskipl/My-Software-Tester-Portfolio/issues/1)
 - [Test runs](https://app.qase.io/public/report/30faf04cb8bde41c7d2d706d9b91d083cc0e178c)
